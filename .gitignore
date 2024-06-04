@@ -1,0 +1,9 @@
+# App
+chat-client
+chat-server
+
+#Obj
+obj/
+
+#vs code
+.vscode/
